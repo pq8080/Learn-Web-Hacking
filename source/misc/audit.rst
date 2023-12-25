@@ -123,7 +123,7 @@
 
 参考链接
 ----------------------------------------
-- `rips <https://github.com/ripsscanner/rips>`_
+- `rips <https://github.com/ripsscanner/rips>`_ 
 - `prvd <https://github.com/fate0/prvd>`_
 - `PHP运行时漏洞检测 <http://blog.fatezero.org/2018/11/11/prvd/>`_
 - Backes M , Rieck K , Skoruppa M , et al. Efficient and Flexible Discovery of PHP Application Vulnerabilities[C]// IEEE European Symposium on Security & Privacy. IEEE, 2017.
